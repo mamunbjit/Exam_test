@@ -7,10 +7,10 @@ For any inquiries or support, please email us at [support@localdiningguide.com](
 
 ## Follow us on social media:
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding) Twitter: [@localdiningguide](https://twitter.com/localdiningguide)
+![Twitter Icon](http://i.imgur.com/tXSoThF.png) Twitter: [@localdiningguide](https://twitter.com/localdiningguide)
 
-![Facebook Icon](http://i.imgur.com/P3YfQoD.png)Facebook: [@LocalDiningGuide](https://www.facebook.com/LocalDiningGuide)
+![Facebook Icon](http://i.imgur.com/P3YfQoD.png) Facebook: [@LocalDiningGuide](https://www.facebook.com/LocalDiningGuide)
 
-Instagram: [@localdiningguide](https://www.instagram.com/localdiningguide)
+![Instagram Icon](instagram_icon.png) Instagram: [@localdiningguide](https://www.instagram.com/localdiningguide)
 
 
