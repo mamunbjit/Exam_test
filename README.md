@@ -11,6 +11,6 @@ For any inquiries or support, please email us at [support@localdiningguide.com](
 
 ![Facebook Icon](http://i.imgur.com/P3YfQoD.png) Facebook: [@LocalDiningGuide](https://www.facebook.com/LocalDiningGuide)
 
-![Instagram Icon](instagram_icon.png) Instagram: [@localdiningguide](https://www.instagram.com/localdiningguide)
+![Instagram Icon](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png) Instagram: [@localdiningguide](https://www.instagram.com/localdiningguide)
 
 
