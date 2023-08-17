@@ -12,3 +12,5 @@ For any inquiries or support, please email us at [support@localdiningguide.com](
 ![Instagram Icon](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png) Instagram: [@localdiningguide](https://www.instagram.com/localdiningguide)
 
 
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your 
+area! Bon appétit!
